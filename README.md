@@ -10,6 +10,14 @@ Installation:
 
 2.Navigate to the project folder cd family-travel-tracker
 
-Install dependencies npm install or npm i
+3.Install dependencies npm install or npm i
 
-Start the server node index.js or with nodemon : nodemon index.js
+4.Start the server node index.js or with nodemon : nodemon index.js'
+
+Note: The database credentials in this repository are intentionally incorrect for security reasons. 
+Please configure your own database credentials before running the project.
+
+Overview of the web application:
+Home page:
+
+
