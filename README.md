@@ -20,4 +20,10 @@ Please configure your own database credentials before running the project.
 Overview of the web application:
 Home page:
 
+## Home Page
+![Home Page Screenshot](overview/homepage.png)
+
+Adding Members:
+![Adding new members page Screenshot](overview/add_new_member.png)
+
 
